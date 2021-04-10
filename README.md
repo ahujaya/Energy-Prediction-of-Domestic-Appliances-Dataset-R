@@ -4,8 +4,8 @@ The given dataset, "Energy20.txt", can be used to create models of energy use of
 
 # Tasks
 
-1.Understand the data
-2.Transform the data
-3.Build models and investigate the importance of each variable
-4.Use your model for prediction
-5.Comparing with a linear regression model
+- Understand the data
+- Transform the data
+- Build models and investigate the importance of each variable
+- Use your model for prediction
+- Comparing with a linear regression model
